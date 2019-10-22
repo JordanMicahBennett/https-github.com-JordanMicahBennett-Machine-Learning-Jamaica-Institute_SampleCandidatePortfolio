@@ -8,7 +8,7 @@
 
 This is my code for the **"back-propagation"** algorithm via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/zip-.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/zip-.png)
 
 Download: [My-Code_For-MLJI-Week-1.zip](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/My-Code_For-MLJI-Week-1.zip)
 
@@ -18,7 +18,7 @@ Download: [My-Code_For-MLJI-Week-1.zip](https://github.com/JordanMicahBennett/ht
 
 This is my code for the **"convolutional artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/zip-.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/zip-.png)
 
 Download: [My-Code_For-MLJI-Week-2.zip](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/My-Code_For-MLJI-Week-2.zip)
 
@@ -29,7 +29,7 @@ Download: [My-Code_For-MLJI-Week-2.zip](https://github.com/JordanMicahBennett/ht
 
 This is my code for the **"recurrent artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/zip-.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/zip-.png)
 
 Download: [My-Code_For-MLJI-Week-3.zip](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/My-Code_For-MLJI-Week-3.zip)
 
@@ -41,7 +41,7 @@ Download: [My-Code_For-MLJI-Week-3.zip](https://github.com/JordanMicahBennett/ht
 
 This is my code for the **"simple image classifier in tensorflow"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/zip-.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/zip-.png)
 
 Download: [My-Code_For-MLJI-Week-4.zip](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/My-Code_For-MLJI-Week-4.zip)
 
@@ -54,7 +54,7 @@ Download: [My-Code_For-MLJI-Week-4.zip](https://github.com/JordanMicahBennett/ht
 
 This is my code for the **"generative adversarial artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/zip-.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/zip-.png)
 
 Download: [My-Code_For-MLJI-Week-5.zip](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/My-Code_For-MLJI-Week-5.zip)
 
@@ -66,7 +66,7 @@ Download: [My-Code_For-MLJI-Week-5.zip](https://github.com/JordanMicahBennett/ht
 
 This is my code for the **"deep q network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/zip-.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/zip-.png)
 
 Download: [My-Code_For-MLJI-Week-6.zip](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/My-Code_For-MLJI-Week-6.zip)
 
@@ -77,7 +77,7 @@ Download: [My-Code_For-MLJI-Week-6.zip](https://github.com/JordanMicahBennett/ht
 
 This is my custom code that utilizes the **"convolutional artificial neural network"** and the **"deep q network"**. This code learns how to save energy for an electric grid for [JPS](https://www.jpsco.com), by optimizing when components turn off/on. The deep q network uses a convolutional artificial neural network as its storage structure, on the input space of a 3d game like setup based on JPS' energy grid.
 
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/zip-.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/zip-.png)
 
 Download: [My-Code_For-MLJI-Final-Semester.zip](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/students/Jane-Doe/MLJI-JANE-GMAIL.COM/My-Code_For-MLJI-Final-Semester.zip)
 
