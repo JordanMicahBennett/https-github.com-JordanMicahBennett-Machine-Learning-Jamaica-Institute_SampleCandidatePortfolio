@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/tree/master/data/logo.png)
+![Alt Text](https://github.com/JordanMicahBennett/https-github.com-JordanMicahBennett-Machine-Learning-Jamaica-Institute_SampleCandidatePortfolio/blob/master/data/logo.png)
 
 # [MLJI](http://mlj-institute.appspot.com/) Jane Doe's Portfolio
 
