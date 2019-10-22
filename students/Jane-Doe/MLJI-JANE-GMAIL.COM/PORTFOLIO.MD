@@ -6,7 +6,7 @@
 
 # Jane's Code For MLJI Week 1
 
-This is my code for the **"back-propagation"** algorithm via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/master/README.md).
+This is my code for the **"back-propagation"** algorithm via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
 ![Alt Text](data/zip-.png)
 
@@ -16,7 +16,7 @@ Download: [My-Code_For-MLJI-Week-1.zip](students/Jane-Doe/MLJI-JANE-GMAIL.COM/My
 
 # Jane's Code For MLJI Week 2
 
-This is my code for the **"convolutional artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/master/README.md).
+This is my code for the **"convolutional artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
 ![Alt Text](data/zip-.png)
 
@@ -27,7 +27,7 @@ Download: [My-Code_For-MLJI-Week-2.zip](students/Jane-Doe/MLJI-JANE-GMAIL.COM/My
 
 # Jane's Code For MLJI Week 3
 
-This is my code for the **"recurrent artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/master/README.md).
+This is my code for the **"recurrent artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
 ![Alt Text](data/zip-.png)
 
@@ -39,7 +39,7 @@ Download: [My-Code_For-MLJI-Week-3.zip](students/Jane-Doe/MLJI-JANE-GMAIL.COM/My
 
 # Jane's Code For MLJI Week 4
 
-This is my code for the **"simple image classifier in tensorflow"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/master/README.md).
+This is my code for the **"simple image classifier in tensorflow"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
 ![Alt Text](data/zip-.png)
 
@@ -52,7 +52,7 @@ Download: [My-Code_For-MLJI-Week-4.zip](students/Jane-Doe/MLJI-JANE-GMAIL.COM/My
 
 # Jane's Code For MLJI Week 5
 
-This is my code for the **"generative adversarial artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/master/README.md).
+This is my code for the **"generative adversarial artificial neural network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
 ![Alt Text](data/zip-.png)
 
@@ -64,7 +64,7 @@ Download: [My-Code_For-MLJI-Week-5.zip](students/Jane-Doe/MLJI-JANE-GMAIL.COM/My
 
 # Jane's Code For MLJI Week 6
 
-This is my code for the **"deep q network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/master/README.md).
+This is my code for the **"deep q network"** via [MLJI curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md).
 
 ![Alt Text](data/zip-.png)
 
